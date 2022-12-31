@@ -3,12 +3,4 @@
     <style>
       .square {
         width: 100px;
-        height: 100px;
-        background-color: white;
-      }
-    </style>
-  </head>
-  <body style="backddddddddddddddground-color: red;">
-    <div class="square"></div>
-  </body>
-</html>
+ 
